@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkjhindraw=self.webpackChunkjhindraw||[]).push([[6375],{382:function(n,e,t){t.r(e),e.default=function(n){return"\n### Scene content\n\n```\nPaste scene content here\n```\n\n### Sentry Error ID\n\n".concat(n,"\n")}}}]);
+//# sourceMappingURL=bug-issue-template.c01f4fea.chunk.js.map
